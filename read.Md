@@ -1,1 +1,1 @@
-this is a small program for multiple of two numbers 
+this is a small program for multiple of two numbers  in java 
